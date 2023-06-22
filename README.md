@@ -7,24 +7,34 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Goal
 Our project aims to develop a highly efficient and user-friendly School Application System utilizing the power of Laravel, a leading PHP framework. This web-based application will revolutionize the way schools manage their administrative tasks, ensuring seamless operations and enhanced communication between stakeholders.
 
-Key Features:
-Admission Management: Streamline the entire admission process, from online application submissions to document verification, ensuring efficient handling of student enrollments.
+## Key Features:
 
-Student Profile Management: Create comprehensive student profiles, including personal details, academic records, attendance, and disciplinary history, enabling easy access to vital information.
+## Admission Management:
+ Streamline the entire admission process, from online application submissions to document verification, ensuring efficient handling of student enrollments.
 
-Fee Management: Simplify fee collection and tracking by automating payment reminders, generating invoices, and providing real-time payment status updates to parents and administrators.
+## Student Profile Management:
+Create comprehensive student profiles, including personal details, academic records, attendance, and disciplinary history, enabling easy access to vital information.
 
-Academic Progress Tracking: Facilitate efficient monitoring of student progress by digitizing grading systems, report card generation, and providing secure access to parents, enabling timely interventions.
+## Fee Management: 
+Simplify fee collection and tracking by automating payment reminders, generating invoices, and providing real-time payment status updates to parents and administrators.
 
-Communication Platform: Foster seamless communication among students, parents, teachers, and administrators through integrated messaging and notification systems, promoting collaboration and engagement.
+## Academic Progress Tracking: 
+Facilitate efficient monitoring of student progress by digitizing grading systems, report card generation, and providing secure access to parents, enabling timely interventions.
 
-Timetable and Attendance Management: Streamline timetable creation, class scheduling, and attendance tracking, ensuring accurate records for efficient resource allocation and student supervision.
+## Communication Platform: 
+Foster seamless communication among students, parents, teachers, and administrators through integrated messaging and notification systems, promoting collaboration and engagement.
 
-Library and Resource Management: Digitize library operations by allowing students and staff to search for books, manage borrowing, and receive notifications for overdue items, enhancing access and organization.
+## Timetable and Attendance Management:
+Streamline timetable creation, class scheduling, and attendance tracking, ensuring accurate records for efficient resource allocation and student supervision.
 
-Administrative Tools: Empower school administrators with comprehensive tools for managing user roles, generating reports, analyzing data, and configuring system settings for personalized customization.
+## Library and Resource Management: 
+Digitize library operations by allowing students and staff to search for books, manage borrowing, and receive notifications for overdue items, enhancing access and organization.
+
+## Administrative Tools:
+ Empower school administrators with comprehensive tools for managing user roles, generating reports, analyzing data, and configuring system settings for personalized customization.
 
 Our School Application System will be designed with an intuitive user interface, adhering to modern design principles and responsive layouts for seamless access from any device. Security will be prioritized, employing industry-standard encryption techniques and access control mechanisms to protect sensitive data.
 
